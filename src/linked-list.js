@@ -45,7 +45,6 @@ class LinkedList {
         if (currNode.value > max) max = currNode.value;
         currNode = currNode.next;
       }
-      console.log(max);
       return  max === 0 ? null : max
   }
 }
