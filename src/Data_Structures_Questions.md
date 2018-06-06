@@ -25,23 +25,23 @@ For each of the methods associated with each data structure, classify it based o
 
 ## Binary Search Tree
 
-1. What is the runtime complexity of `insert`? O(logN)
+1. What is the runtime complexity of `insert`? O(log(N))
 
-2. What is the runtime complexity of `contains`?
+2. What is the runtime complexity of `contains`? O(log(N))
 
-3. What is the runtime complexity of `getMax`?
+3. What is the runtime complexity of `getMax`? O(log(N))
 
 ## Heap
 
-1. What is the runtime complexity of `bubbleUp`?
+1. What is the runtime complexity of `bubbleUp`? O(log(N))
 
-2. What is the runtime complexity of `siftDown`?
+2. What is the runtime complexity of `siftDown`? O(log(N))
 
-3. What is the runtime complexity of `insert`?
+3. What is the runtime complexity of `insert`? O(log(N))
 
-4. What is the runtime complexity of `delete`?
+4. What is the runtime complexity of `delete`? O(1)
 
-5. What is the runtime complexity of `getMax`?
+5. What is the runtime complexity of `getMax`? O(1)
 
 ## [Stretch Goal] Doubly Linked List
 

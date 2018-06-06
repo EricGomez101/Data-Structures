@@ -65,7 +65,7 @@ class DoublyLinkedList {
   }
 
   /* Move the given node to the back of the
-  list. Update the list's `tail` pointer 
+  list. Update the list's `tail` pointer
   accordingly */
   moveToBack(node) {
 
